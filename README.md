@@ -10,3 +10,6 @@ update on Master on July 18 for Lecture 74 (Rebase)
 Just additional text for Lecture 77 on July 18
 
 Just another cahnge for lecture 77 July 18
+
+## Make a change on July 19, for Lecture 83
+
