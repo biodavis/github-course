@@ -13,3 +13,6 @@ Just another cahnge for lecture 77 July 18
 
 ## Make a change on July 19, for Lecture 83
 
+##Getting Started Section
+
+This is a new section that has to be filled in
